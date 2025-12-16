@@ -3,6 +3,14 @@
 This repository contains scripts for reproducing the main results of the paper:
 "Chameleon Channels: Measuring YouTube Accounts Repurposed for Deception and Profit."
 
+Given Fameswap and YouTube's policies we do not make the data publicly accessible. 
+Researchers, however, are encouraged to submit a request for access with a description of intended usage.
+Data for replication is provided below:
+
+  - Zenodo repository: https://zenodo.org/records/17955053
+  - DOI: https://doi.org/10.5281/zenodo.17955052
+
+
 ## Overview
 
 The project includes:
